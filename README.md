@@ -1,5 +1,6 @@
-*ABOUT THE PROJECT* :
-We selected a blockchain platform with low transaction fees and high throughput (such as Ethereum Layer 2 solutions).
+*ABOUT THE PROJECT* :	
+Developed during HackOn Blocks 2024.
+Our team selected a blockchain platform with low transaction fees and high throughput (such as Ethereum Layer 2 solutions).
 
 Optimized the smart contracts to ensure the efficient cost and minimum latency.
 The implementation of the secure user authentication system for the safety of user data and transactions along with ensuring that messages and payments processing in the real-time without any significant delays was essential for user experience.
